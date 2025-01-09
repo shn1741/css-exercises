@@ -1,0 +1,17 @@
+.All-odd-numbered {
+    background-color: rgb(rgb(237, 118, 118), green, blue);
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+#title {
+    color: rgb(rgb(22, 53, 210), green, blue);
+    font-size: 36px;
+}
+#alpha {
+    color: rgb(rgb(0, 0, 0), green, blue);
+    background-color: rgb(rgb(124, 242, 95), green, blue)
+    font-size: 24px;
+    font-weight: bold;
+}
+.beta {
+    font-size: 24px;
+}
